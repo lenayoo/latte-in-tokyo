@@ -15,7 +15,7 @@ function App() {
       <div className="main-body">
         <div className="main__blog">blog</div>
         <div className="main-todo">
-          <div className="main-todo__coffee">coffee</div>
+          <div className="main-todo__coffee">coffee to go</div>
           <div className="main-todo__travel">travel</div>
         </div>
       </div>
